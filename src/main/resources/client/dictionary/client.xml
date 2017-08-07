@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<DOCUMENTS>
+    <DOCUMENT>
+        <DOCUMENT_NAME>Document 001</DOCUMENT_NAME>
+        <VERSION>1.0</VERSION>
+        <LENGTH></LENGTH>
+        <PATH_TO_FILE></PATH_TO_FILE>
+    </DOCUMENT>
+    <DOCUMENT>
+        <DOCUMENT_NAME>Document 002</DOCUMENT_NAME>
+        <VERSION>1.0</VERSION>
+        <LENGTH></LENGTH>
+        <PATH_TO_FILE></PATH_TO_FILE>
+    </DOCUMENT>
+    <DOCUMENT>
+        <DOCUMENT_NAME>Document 003</DOCUMENT_NAME>
+        <VERSION>1.0</VERSION>
+        <LENGTH></LENGTH>
+        <PATH_TO_FILE></PATH_TO_FILE>
+    </DOCUMENT>
+</DOCUMENTS>

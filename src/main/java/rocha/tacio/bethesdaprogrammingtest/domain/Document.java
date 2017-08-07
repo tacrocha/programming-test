@@ -1,12 +1,10 @@
 package rocha.tacio.bethesdaprogrammingtest.domain;
 
-import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlProperty;
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlRootElement;
 
 import java.io.Serializable;
 
-@JsonIgnoreProperties(ignoreUnknown = true)
 @JacksonXmlRootElement(localName = "DOCUMENT")
 public class Document implements Serializable {
 
